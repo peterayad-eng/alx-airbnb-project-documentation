@@ -35,5 +35,5 @@ To visually demonstrate how data flows within the backend system and how differe
 
 ## 🖼️ Data Flow Diagram
 
-![Data flow Diagram for Airbnb-like System](./data_flow_diagram.png)
+![Data flow Diagram for Airbnb-like System](./data-flow.png)
 
